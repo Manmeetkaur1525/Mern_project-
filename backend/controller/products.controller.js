@@ -1,4 +1,4 @@
-import Product from "../../models/product.model.js";
+import Product from "../models/product.model.js";
 import mongoose from 'mongoose';
 
 export const getProducts = async(req,res)=>{
@@ -63,4 +63,4 @@ export const deleteProduct = async(req, res)=>{
     });
     console.error("Error while deleting product:", error.message);
     }
-}
+}  

@@ -1,0 +1,7 @@
+//very first thing we are going to do is build the navbar component 
+
+there will be multiple pages , home page , create page and multiple pages you want 
+
+//learn about , hooks , objects and all these things 
+
+
